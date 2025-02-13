@@ -200,11 +200,17 @@ transition: slide-left
    ex: Below the `<title>` tag, temporarily insert `<style>* {border: 1px solid orange}</style>`
 
 <!-- 
-1.
+1. https://css-tricks.com/a-complete-guide-to-links-and-buttons/
+2. https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture
+3. https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Box_model
 -->
 
 ---
+layout: image-right
 transition: slide-left
+image: /assets/kentcdodds01.png
+backgroundSize: 500px 300px
+class: text-left
 ---
 
 # 10 minute break
@@ -217,6 +223,7 @@ transition: slide-left
 - 🍱 [How to Section Your HTML](https://css-tricks.com/how-to-section-your-html/)
 - 🔗 [When to use Buttons vs Links](https://css-tricks.com/a-complete-guide-to-links-and-buttons/)
 - 🐙 [Blob Generator](https://www.blobmaker.app/)
+- 🛠️ [Consume -> Build -> Teach](https://www.youtube.com/watch?v=-qPh6I2hfjw)
 
 ---
 transition: slide-left
@@ -363,6 +370,7 @@ transition: slide-left
 - Practice with the exercise that is in LMS "Build a basic page that includes info about your fav musician, their skills, and pics/videos (this is not graded, but good for practice)
 
 <!--
+- take attendance
 -->
 
 ---
@@ -377,6 +385,3 @@ transition: slide-left
 <!--
 -->
 
----
-transition: slide-left
----
